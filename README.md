@@ -4,7 +4,7 @@ Embed a PDF viewer in WPBakery and select a PDF from the media library.
 
 ## Description
 
-This plugin allows you to easily embed a PDF viewer into your WPBakery pages/posts. You can either select a PDF from the media library or manually input a PDF URL. The plugin uses Viewer.js to render the PDF viewer.
+This plugin allows you to easily embed a PDF viewer into your WPBakery pages/posts. You can either select a PDF from the media library. The plugin uses Viewer.js to render the PDF viewer.
 
 ## Installation
 
@@ -19,9 +19,8 @@ To embed a PDF viewer using the WPBakery element:
 1. Go to the page/post where you want to embed the PDF viewer.
 2. Click on the "+" button to add a new element.
 3. Search for "PDF Viewer" and add it to your page.
-4. Fill in the PDF URL field with the URL of the PDF file or select a PDF from the media library.
-5. Set the width and height of the PDF viewer as desired.
-6. Click "Save Changes" to save your page/post.
+4. Set the width and height of the PDF viewer as desired.
+5. Click "Save Changes" to save your page/post.
 
 ## Features
 
